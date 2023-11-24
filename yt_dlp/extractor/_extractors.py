@@ -1094,6 +1094,7 @@ from .mediastream import (
 )
 from .mediaworksnz import MediaWorksNZVODIE
 from .medici import MediciIE
+from .megacl import MegaClIE
 from .megaphone import MegaphoneIE
 from .meipai import MeipaiIE
 from .melonvod import MelonVODIE
