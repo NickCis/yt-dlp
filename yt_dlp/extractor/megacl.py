@@ -1,5 +1,3 @@
-# https://github.com/yt-dlp/yt-dlp/pull/7151/files
-
 from .common import InfoExtractor
 from ..utils import js_to_json, ExtractorError
 from urllib.parse import urlencode
