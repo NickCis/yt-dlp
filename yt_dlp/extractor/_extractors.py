@@ -1094,6 +1094,7 @@ from .mediastream import (
 )
 from .mediaworksnz import MediaWorksNZVODIE
 from .medici import MediciIE
+from .megacl import MegaClIE
 from .megaphone import MegaphoneIE
 from .meipai import MeipaiIE
 from .melonvod import MelonVODIE
@@ -2167,6 +2168,7 @@ from .tvigle import TvigleIE
 from .tviplayer import TVIPlayerIE
 from .tvland import TVLandIE
 from .tvn24 import TVN24IE
+from .tvncl import TVNClIE
 from .tvnet import TVNetIE
 from .tvnoe import TVNoeIE
 from .tvnow import (
